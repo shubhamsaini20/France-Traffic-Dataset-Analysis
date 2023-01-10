@@ -1,4 +1,4 @@
-# France-Trafiic-Dataset-Analysis-Python
+# France-Traffic-Dataset-Analysis-Python
 
 Introduction
 DataSet Columns:
